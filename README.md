@@ -1,6 +1,4 @@
-# zahlensystemen
-
-## Project Description
+## zahlensystemen
 
 This project is a small Flutter application that demonstrates the usage of Zahlensystemen (number systems). It provides examples and explanations for various number systems, such as binary, decimal, and hexadecimal.
 
